@@ -1,6 +1,6 @@
 # Universal Blue Update Indicator
 
-A GNOME Shell extension that shows an indicator when system updates are being applied via `uupd.service` on Universal Blue systems.
+A GNOME Shell extension that shows a pulsing download indicator when system updates are being applied via `uupd.service` on Universal Blue systems.
 
 ## Features
 
