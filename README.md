@@ -8,7 +8,9 @@ A GNOME Shell extension that shows an indicator when system updates are being ap
 - Only active when automatic updates are enabled (`ujust toggle-updates`)
 - Monitors `uupd.service` state via D-Bus
 - Smooth opacity-based pulsing animation
-- Works with GNOME Shell 46, 47, 48, and 49
+- Works with GNOME Shell 49
+
+![screenshot](screenshot.png)
 
 ## Installation
 
@@ -65,7 +67,7 @@ When automatic updates are disabled, the extension will hide the indicator.
 
 ## Requirements
 
-- GNOME Shell 46, 47, 48, or 49
+- GNOME Shell 49
 - Universal Blue or any system using `uupd.service` and `uupd.timer`
 - systemd
 
