@@ -10,7 +10,9 @@ A GNOME Shell extension that shows an indicator when system updates are being ap
 - Smooth opacity-based pulsing animation
 - Works with GNOME Shell 49
 
-![screenshot](screenshot.png)
+![total bar](/screenshots/screenshot1.png)
+![detail](/screenshots/screenshot2.png)
+![on click](/screenshots/screenshot3.png)
 
 ## Installation
 
