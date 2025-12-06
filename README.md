@@ -107,6 +107,11 @@ Check the GNOME Shell logs for errors:
 journalctl /usr/bin/gnome-shell -f
 ```
 
+### Show triggering timestamps
+```bash
+systemctl list-timers --all uupd.timer
+```
+
 ## License
 
 GPLv3
