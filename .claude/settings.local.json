@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(gnome-extensions list:*)"
-    ],
-    "deny": [],
-    "ask": []
-  }
-}
