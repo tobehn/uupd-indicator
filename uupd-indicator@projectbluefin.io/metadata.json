@@ -1,7 +1,8 @@
 {
   "name": "Universal Blue Update Indicator",
-  "description": "Shows an indicator when system updates are being applied via uupd.service on BluefinOS/Universal Blue systems.",
+  "description": "Shows a pulsing download indicator when system updates are being applied via uupd.service on BluefinOS/Universal Blue systems.",
   "uuid": "uupd-indicator@projectbluefin.io",
+  "url": "https://github.com/tobehn/uupd-indicator/",
   "version": 1,
   "shell-version": [
     "49"
