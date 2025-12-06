@@ -1,0 +1,12 @@
+{
+  "name": "Universal Blue Update Indicator",
+  "description": "Shows an indicator when system updates are being applied via uupd.service on BluefinOS/Universal Blue systems.",
+  "uuid": "uupd-indicator@projectbluefin.io",
+  "version": 1,
+  "shell-version": [
+    "46",
+    "47",
+    "48",
+    "49"
+  ]
+}

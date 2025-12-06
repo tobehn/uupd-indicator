@@ -1,0 +1,22 @@
+# GNOME Shell Extension build artifacts
+*.gschema.valid
+*.pot
+*.mo
+*.zip
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Node modules (if using any build tools)
+node_modules/
+package-lock.json
+
+# Temporary files
+*.tmp
+*.bak
+.*.un~
