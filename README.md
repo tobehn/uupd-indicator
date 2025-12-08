@@ -10,7 +10,7 @@ A GNOME Shell extension that shows a pulsing download indicator when system upda
 - Smooth opacity-based pulsing animation
 - Works with GNOME Shell 49
 
-[![screeencast]https://github.com/user-attachments/assets/bfa39984-85b9-4b1c-b3bd-faae13dd6f76()](/screenshots/screencast1-thumb.png)
+[screeencast](https://github.com/user-attachments/assets/bfa39984-85b9-4b1c-b3bd-faae13dd6f76)
 
 ![total bar](/screenshots/screenshot1.png)
 ![detail](/screenshots/screenshot2.png)
